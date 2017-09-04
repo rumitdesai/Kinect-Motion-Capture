@@ -1,6 +1,6 @@
 # Kinect Motion Capture
 
-![Alt text](https://github.com/rumitdesai/Kinect_Motion_Capture/blob/master/User%20interface.png)
+![Alt text](https://github.com/rumitdesai/KMotion/blob/master/User%20interface.png)
 
 This project has been totally buid using:
 - Microsoft visual studio 2013 community
